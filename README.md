@@ -6,7 +6,7 @@
  
 <h2>Certifications</h2>
 
-- [Campus Network Topology Project](https://m.youtube.com/watch?v=QcOCbxhlAZs)
+- [Campus Network Topology Project](https://github.com/Bruce637485/Network-Topology-Project/tree/main)
 - Active Directory Home Lab
 
 <h2> 🤳 Connect with me:</h2>
