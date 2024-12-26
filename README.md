@@ -2,12 +2,10 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
- 
-<h2>Certifications</h2>
-
 - [Campus Network Topology Project](https://github.com/Bruce637485/Network-Topology-Project/tree/main)
 - Active Directory Home Lab
+ 
+<h2>Certifications</h2>
 
 <h2> 🤳 Connect with me:</h2>
 
