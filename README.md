@@ -3,6 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Campus Network Topology Project](https://github.com/Bruce637485/Network-Topology-Project/tree/main)
+- [Security Audit Project](https://github.com/Bruce637485/Scope-goals-and-risk-assessment-report/edit/main/README.md)
 - Active Directory Home Lab
  
 <h2>Certifications</h2>
