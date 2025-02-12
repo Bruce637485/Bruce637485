@@ -10,7 +10,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-- LinkedIn: www.linkedin.com/in/bruce-weygandt-67ba871b7
+- LinkedIn: www.linkedin.com/in/bruce-weygandt
 - Email: brucebasketball2024@gmail.com
 
 <!--
