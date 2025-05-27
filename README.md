@@ -1,10 +1,19 @@
-<h1>Hi, I'm Bruce! 
+<h1>Hi, I'm Bruce!</h1>
+
+ 
+I’m a cybersecurity student passionate about helping organizations strengthen their digital defenses and adapt to an ever-changing threat landscape. My ultimate goal is to become a Cybersecurity Consultant, guiding businesses—especially in the U.S. and Japan—toward secure, resilient operations.
+
+While pursuing my studies, I currently work as a server at Rodizio Grill & Windows Lab Administrator. This role has helped me refine my interpersonal communication, situational awareness, and problem-solving skills—all of which are critical when working with clients and managing cybersecurity risks.
+
+I’m actively developing technical expertise in areas such as threat intelligence, risk management, and network security. I’m especially interested in aligning cybersecurity strategies with business objectives to ensure both protection and performance.
+
+Let’s connect and collaborate on creating secure solutions for the future!
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Cloud NAS Deployment project](https://github.com/Bruce637485/Cloud-NAS-Deployment/edit/main/README.md)
 - [Campus Network Topology Project](https://github.com/Bruce637485/Network-Topology-Project/tree/main)
-- Cybersecurity Analysis
+- [Security Control & Compliance project](https://github.com/Bruce637485/Security-Control-compliance/blob/main/README.md)
  
 <h2>Certifications</h2>
 
