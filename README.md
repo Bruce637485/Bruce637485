@@ -4,7 +4,7 @@
 
 - [Cloud NAS Deployment project](https://github.com/Bruce637485/Cloud-NAS-Deployment/edit/main/README.md)
 - [Campus Network Topology Project](https://github.com/Bruce637485/Network-Topology-Project/tree/main)
-- Active Directory Home Lab(In Progress)
+- Cybersecurity Analysis
  
 <h2>Certifications</h2>
 
