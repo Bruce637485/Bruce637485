@@ -13,10 +13,11 @@ Let’s connect and collaborate on creating secure solutions for the future!
 
 - [Cloud NAS Deployment project](https://github.com/Bruce637485/Cloud-NAS-Deployment/edit/main/README.md)
 - [Campus Network Topology Project](https://github.com/Bruce637485/Network-Topology-Project/tree/main)
-- [Security Control & Compliance project](https://github.com/Bruce637485/Security-Control-compliance/blob/main/README.md)
+- [Security Control & Compliance project](https://github.com/Bruce637485/compTIA-Security-/tree/main)
  
 <h2>Certifications</h2>
-![Screenshot of the project](IMG_4659.jpg)
+
+- [Security Plus](https://github.com/Bruce637485/compTIA-Security-/blob/main/README.md)
 
 
 <h2> 🤳 Connect with me:</h2>
