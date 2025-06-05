@@ -16,6 +16,8 @@ Let’s connect and collaborate on creating secure solutions for the future!
 - [Security Control & Compliance project](https://github.com/Bruce637485/Security-Control-compliance/blob/main/README.md)
  
 <h2>Certifications</h2>
+![Screenshot of the project](IMG_4659.jpg)
+
 
 <h2> 🤳 Connect with me:</h2>
 
