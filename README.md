@@ -18,7 +18,7 @@ Let’s connect and collaborate on creating secure solutions for the future!
  
 <h2>Certifications</h2>
 
-- [Security Plus](https://www.credly.com/earner/earned/badge/9247789c-1440-4420-8a93-7930bf029025)
+- [compTIA Security+](https://www.credly.com/earner/earned/badge/9247789c-1440-4420-8a93-7930bf029025)
 - [GRC Mastery](https://www.credly.com/earner/earned/badge/9e28f3d3-f211-46a9-93ef-789fb98ce597)
 
 
