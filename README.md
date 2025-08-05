@@ -3,7 +3,7 @@
  
 I’m a cybersecurity student passionate about helping organizations strengthen their digital defenses and adapt to an ever-changing threat landscape. My ultimate goal is to become a Cybersecurity Consultant, guiding businesses—especially in the U.S. and Japan—toward secure, resilient operations.
 
-While pursuing my studies, I currently work as a server at Rodizio Grill & Windows Lab Administrator. This role has helped me refine my interpersonal communication, situational awareness, and problem-solving skills—all of which are critical when working with clients and managing cybersecurity risks.
+While pursuing my studies, I currently work as a server at Rodizio Grill & Windows Lab Administrator. These roles have helped me refine my interpersonal communication, situational awareness, and problem-solving skills—all of which are critical when working with clients and managing cybersecurity risks.
 
 I’m actively developing technical expertise in areas such as threat intelligence, risk management, and network security. I’m especially interested in aligning cybersecurity strategies with business objectives to ensure both protection and performance.
 
