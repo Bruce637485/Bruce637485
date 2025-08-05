@@ -27,6 +27,7 @@ Let’s connect and collaborate on creating secure solutions for the future!
 
 - LinkedIn: www.linkedin.com/in/bruce-weygandt
 - Email: brucebasketball2024@gmail.com
+- University email: bruce87@byu.edu
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
