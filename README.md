@@ -20,6 +20,7 @@ Let’s connect and collaborate on creating secure solutions for the future!
 
 - [compTIA Security+](https://www.credly.com/earner/earned/badge/9247789c-1440-4420-8a93-7930bf029025)
 - [GRC Mastery](https://www.credly.com/earner/earned/badge/9e28f3d3-f211-46a9-93ef-789fb98ce597)
+- [ISO27001 Lead Auditor](https://www.credly.com/badges/5fd7b7b2-bfc8-4f1c-a0e1-3d58c09639b2/public_url)
 
 
 <h2> 🤳 Connect with me:</h2>
